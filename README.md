@@ -69,19 +69,19 @@ Sistema completo desenvolvido para um grupo acadêmico, com foco em gestão de c
 
 Projeto de e-commerce de jogos digitais em desenvolvimento.
 
-Funcionalidades atuais:
+**Funcionalidades atuais**
 
-Interface de catálogo de produtos
-Carrinho de compras com localStorage
-Sistema simulado de autenticação
+* Interface de catálogo de produtos
+* Carrinho de compras com localStorage
+* Sistema simulado de autenticação
 
-Próximos passos:
+**Próximos passos**
 
-Integração com backend em PHP
-Sistema real de login e sessões
-Painel administrativo e gerenciamento de produtos
+* Integração com backend em PHP
+* Sistema real de login e sessões
+* Painel administrativo e gerenciamento de produtos
 
---
+---
 
 ## 📈 Objetivo
 
