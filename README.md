@@ -6,6 +6,9 @@
   <a href="mailto:samuelferreiradev08@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/samuel-ferreira-desenvolvedor/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <img src="https://img.shields.io/badge/São%20Paulo-Brasil-00F7FF?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 
@@ -15,7 +18,7 @@
 
 Desenvolvedor Web com foco em evolução para **full-stack**, construindo aplicações completas e bem estruturadas.
 
-Experiência prática com integração entre **front-end, back-end e banco de dados**, com projetos reais entregues.
+Experiência prática com integração entre **front-end, back-end e banco de dados**, com projetos reais entregues e em produção.
 
 Em formação como **desenvolvedor de jogos** com Unity e C#, iniciando também no desenvolvimento mobile com **Flutter**.
 
@@ -94,23 +97,27 @@ Acredito em aprendizado contínuo, código limpo e projetos que resolvem problem
 
 ## Projetos em Destaque
 
-### ECOAR — USP
+### ECOAR — USP *Concluído e em produção*
 
-> Sistema completo desenvolvido para um grupo acadêmico da USP, com foco em gestão de conteúdo, administração e comunicação com usuários.
+> Sistema completo desenvolvido para um grupo acadêmico da USP, com foco em gestão de conteúdo, administração e comunicação com usuários. Atualmente indexado e funcionando em produção na primeira página do Google.
 
 **Funcionalidades**
-- Site institucional responsivo
+- Site institucional responsivo e otimizado para SEO
 - Sistema administrativo com autenticação e controle de acesso
 - CRUD completo para gerenciamento de conteúdos
+- Sistema multilíngue (Português, Inglês e Espanhol)
 - Envio de e-mails automatizado via PHPMailer
 - Newsletter com envio em massa
 - Redefinição de senha com token seguro
+- Sitemap, robots.txt e Google Search Console configurados
 
 **Destaques técnicos**
 - Arquitetura MVC simplificada
 - Variáveis de ambiente com `.env`
 - Proteção contra SQL Injection com Prepared Statements
 - Sanitização de dados e camada de serviços (Service Layer)
+- Sistema de tradução dinâmica via JSON e localStorage
+- Deploy em produção no servidor da USP
 
 **Stack:** `PHP` `MySQL` `HTML` `CSS` `JavaScript` `PHPMailer`
 
@@ -145,5 +152,9 @@ Consolidar atuação como **desenvolvedor full-stack**, expandindo para aplicaç
 <p align="center">
   <a href="mailto:samuelferreiradev08@gmail.com">
     <img src="https://img.shields.io/badge/samuelferreiradev08@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/samuel-ferreira-desenvolvedor/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
